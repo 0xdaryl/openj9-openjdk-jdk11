@@ -19,4 +19,4 @@
 # ===========================================================================
 
 # OpenJ9 uses it's own VarHandles implementation
-GENSRC_JAVA_BASE := $(filter-out $(GENSRC_VARHANDLES),$(GENSRC_JAVA_BASE))
+#GENSRC_JAVA_BASE := $(filter-out $(GENSRC_VARHANDLES),$(GENSRC_JAVA_BASE))
